@@ -1,4 +1,4 @@
-# README
+アプリケーションを完成させよう　2章　投稿機能を作ろう
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
